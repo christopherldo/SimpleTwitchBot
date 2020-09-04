@@ -20,7 +20,7 @@ Welcome to Simple TwitchBot.
 * Put the bot channel's account on the fourth line;
 * Put your channel on the fifth line;
 * Put the bot channel's account password on the sixth line;
-* Save the file.
+* Save the file;
 * Start the ./Main.py again.
 * Enjoy your own twitch bot! :)
 
