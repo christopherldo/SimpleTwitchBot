@@ -1,10 +1,14 @@
 # Simple TwitchBot
-A simple and configurable bot for Twitch streamers.
+Are you tired of trying to make a command on a Twitch bot and you can't because you can't use variables on it?
+With this bot you can customize the way you ever would like, remove what you need, add what you want.
+
+Welcome to your Simple TwitchBot
 
 # Rules
 * Do not submit content which you do not hold a license for.
 * Be nice
 * Don't use this as a spam bot.
+* Don't copy my repository as post as it is yours.
 
 # Recommended Setup
 * Clone this repo;
