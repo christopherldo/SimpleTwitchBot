@@ -67,8 +67,8 @@ def write_autoreply(message):
 def write_joke(message):
     global joke, joke_in_jokes
     joke_caller = message.strip()
-    joke_and_response = str((joke_caller.split(' ', maxsplit=2))[2]).split('/')
     try:
+        joke_and_response = str((joke_caller.split(' ', maxsplit=2))[2]).split('/')
         joke = joke_and_response[0].strip()
         response = joke_and_response[1].strip()
     except:
