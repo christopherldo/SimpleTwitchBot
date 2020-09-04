@@ -6,9 +6,9 @@ Welcome to Simple TwitchBot.
 
 # Rules
 * Do not submit content which you do not hold a license for.
-* Be nice
+* Be nice.
 * Do not use it as a spam bot.
-* You can modify it the way you want
+* You can modify it the way you want.
 * Always mention me in the credits as the original creator if you repost it in your way.
 
 # Recommended Setup
