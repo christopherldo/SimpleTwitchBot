@@ -13,6 +13,7 @@ Welcome to Simple TwitchBot.
 
 # Recommended Setup
 * Clone this repo;
+* Import the requests library using pip
 * Start the ./Main.py (It will generate the file it needs on the twitchbotDataFiles folder);
 * open ./twitchbotDataFiles/config.txt;
 * Do not touch the first and second line;
