@@ -12,7 +12,7 @@ Welcome to your Simple TwitchBot
 
 # Recommended Setup
 * Clone this repo;
-* Start the ./Main.py (It will generate all the files it needs on the twitchbotDataFiles folder);
+* Start the ./Main.py (It will generate the file it needs on the twitchbotDataFiles folder);
 * open ./twitchbotDataFiles/config.txt;
 * Do not touch the first and second line;
 * Put your oauth password on the third line (You can get it [here](https://twitchapps.com/tmi/));
